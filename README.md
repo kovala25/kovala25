@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Andrew 👋
+- 🔬 Biostatistician at BRI
+- 📊 I work with clinical trial and omics data
+- 🛠️ Skilled in R, Python, and data visualization
+
 
 <!--
 **kovala25/kovala25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
