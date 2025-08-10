@@ -34,7 +34,7 @@
 
 ## 📊 Statistics & Machine Learning
 
-### ✅ Concepts I Know
+### ✅ Concepts I Know well
 - Regression (linear, logistic, etc.)
 - Generalized Linear Models (GLM)
 - Generalized Additive Mixed Models (GAMM)
@@ -48,13 +48,15 @@
 - Dimension Reduction (UMAP, t-SNE, PCA)
 - ANOVA / ANCOVA
 
-### 📚 Concepts I’m Learning
+### 📚 Concepts I’m Learning (but have done real-world data analysis with)
 - Functional Data Analysis (FDA)
+- Causal Inference
 - Scalar-on-Function Regression (SOFR)
 - Bayesian SOFR Models
+
+### Concepts I'm Learning (but have only coded with for fun)
 - Time-to-Onset and Survival Time Modeling
 - Graph Neural Networks (GNNs)
-- Causal Inference in ML
 - Autoencoders & Variational Autoencoders (VAE)
 - Reinforcement Learning
 
