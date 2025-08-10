@@ -15,6 +15,33 @@
 - Python (machine learning, data analysis)
 - MATLAB (signal processing, modeling)
 
+
+## 📊 Statistics & Machine Learning
+
+### ✅ Concepts I Know
+- Regression (linear, logistic, etc.)
+- Generalized Linear Models (GLM)
+- Generalized Additive Mixed Models (GAMM)
+- Mixed Effect Models
+- Multiple Testing Corrections (e.g., Benjamini–Hochberg)
+- Random Forests
+- Unsupervised Learning (K-means, Hierarchical, etc.)
+- Sequence-to-Sequence Models
+- Transformer Architecture (Google version via Hugging Face)
+- Semantic Learning
+- Dimension Reduction (UMAP, t-SNE, PCA)
+- ANOVA / ANCOVA
+
+### 📚 Concepts I’m Learning
+- Functional Data Analysis (FDA)
+- Scalar-on-Function Regression (SOFR)
+- Bayesian SOFR Models
+- Time-to-Onset and Survival Time Modeling
+- Graph Neural Networks (GNNs)
+- Causal Inference in ML
+- Autoencoders & Variational Autoencoders (VAE)
+- Reinforcement Learning
+
 <!--
 **kovala25/kovala25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
