@@ -4,6 +4,14 @@
 - 🛠️ Skilled in R, Python, and data visualization
 
 
+## 🛠 Skills & Expertise
+
+### 💻 Programming Languages
+- R (statistical modeling, data visualization)
+- Python (machine learning, data analysis)
+- MATLAB (signal processing, modeling)
+- SQL (data querying and management)
+
 <!--
 **kovala25/kovala25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
