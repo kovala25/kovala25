@@ -7,6 +7,11 @@
 ## 🛠 Skills & Expertise
 
 ### 💻 Programming Languages
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
+
 - R (statistical modeling, data visualization)
 - Python (machine learning, data analysis)
 - MATLAB (signal processing, modeling)
