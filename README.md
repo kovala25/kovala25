@@ -34,7 +34,7 @@
 
 ## 📊 Statistics & Machine Learning
 
-### ✅ Concepts I Know well
+### ✅ Core Statistical & Machine Learning Expertise
 - Regression (linear, logistic, etc.)
 - Generalized Linear Models (GLM)
 - Generalized Additive Mixed Models (GAMM)
@@ -48,13 +48,13 @@
 - Dimension Reduction (UMAP, t-SNE, PCA)
 - ANOVA / ANCOVA
 
-### 📚 Concepts I’m Learning (but have done real-world data analysis with)
+### 📚 Applied Proficiency with Ongoing Skill Development (Concepts I’m Learning but have done real-world data analysis with)
 - Functional Data Analysis (FDA)
 - Causal Inference
 - Scalar-on-Function Regression (SOFR)
 - Bayesian SOFR Models
 
-### Concepts I'm Learning (but have only coded with for fun)
+### Concepts I'm Learning but have only coded with for fun
 - Time-to-Onset and Survival Time Modeling
 - Graph Neural Networks (GNNs)
 - Autoencoders & Variational Autoencoders (VAE)
