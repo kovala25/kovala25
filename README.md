@@ -7,9 +7,28 @@
 ## 🛠 Skills & Expertise
 
 ### 💻 Programming Languages
+## 🛠 Skills & Expertise
+
+### 💻 Programming Languages
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+![RMarkdown](https://img.shields.io/badge/RMarkdown-2C8EBB?logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+
+## 🧰 Data Science & Development Platforms
+
+![Domino Data Lab](https://img.shields.io/badge/Domino%20Data%20Lab-1E1E1E?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAOCAYAAAAvx8bAAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAqUlEQVR4nGNgQANGAxIwpL9V4j9RxilPBwzEPwPxf0BOdRB1EjDqAgYQgUg7gJhkJ3wfw7GJziI0Axh+MCfQFYtMHMIIqjDAH4ZgJ0zYgwnGMDvwGK3TDiqB4jlA0QbwJIGAUIPqA0g8BNxAYjTAE2F8A2RTACmzYMg0b3AqEKkwH6U8QwnjMBsYwDZQ8wSTmBlWuwqkE0EYAwBKVsRJr4Gy1UAAAAASUVORK5CYII=)
+![Posit Cloud](https://img.shields.io/badge/Posit%20Cloud-75AADB?logo=rstudio&logoColor=white)
+
+
+
+## 🚀 CI/CD
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
+
 
 - R (statistical modeling, data visualization)
 - Python (machine learning, data analysis)
