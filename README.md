@@ -1,7 +1,7 @@
-# Hi, I'm Andrew 👋
-- 🔬 Biostatistician at BRI
-- 📊 I work with clinical trial and omics data
-- 🛠️ Skilled in R, Python, and data visualization
+<span style="font-size:1.3em;">🔬 Biostatistician at BRI</span>  
+<span style="font-size:1.3em;">📊 I work with clinical trial and omics data</span>  
+<span style="font-size:1.3em;">🛠️ Skilled in R, Python, and data visualization</span>
+
 
 
 ## 🛠 Skills & Expertise
