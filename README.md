@@ -27,7 +27,7 @@
 - Random Forests
 - Unsupervised Learning (K-means, Hierarchical, etc.)
 - Sequence-to-Sequence Models
-- Transformer Architecture (Google version via Hugging Face)
+- Google Universal Sentence Encoder (Transformer-based)
 - Semantic Learning
 - Dimension Reduction (UMAP, t-SNE, PCA)
 - ANOVA / ANCOVA
@@ -41,6 +41,7 @@
 - Causal Inference in ML
 - Autoencoders & Variational Autoencoders (VAE)
 - Reinforcement Learning
+
 
 <!--
 **kovala25/kovala25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
