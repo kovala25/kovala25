@@ -29,7 +29,7 @@
 
 - R (statistical modeling, data visualization)
 - Python (machine learning, data analysis)
-- MATLAB (signal processing, modeling)
+- MATLAB
 
 
 ## 📊 Statistics & Machine Learning
